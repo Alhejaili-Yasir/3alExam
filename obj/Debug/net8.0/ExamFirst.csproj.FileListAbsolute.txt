@@ -1,0 +1,14 @@
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\bin\Debug\net8.0\ExamFirst.exe
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\bin\Debug\net8.0\ExamFirst.deps.json
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\bin\Debug\net8.0\ExamFirst.runtimeconfig.json
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\bin\Debug\net8.0\ExamFirst.dll
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\bin\Debug\net8.0\ExamFirst.pdb
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\obj\Debug\net8.0\ExamFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\obj\Debug\net8.0\ExamFirst.AssemblyInfoInputs.cache
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\obj\Debug\net8.0\ExamFirst.AssemblyInfo.cs
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\obj\Debug\net8.0\ExamFirst.csproj.CoreCompileInputs.cache
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\obj\Debug\net8.0\ExamFirst.dll
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\obj\Debug\net8.0\refint\ExamFirst.dll
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\obj\Debug\net8.0\ExamFirst.pdb
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\obj\Debug\net8.0\ExamFirst.genruntimeconfig.cache
+C:\Users\rozar\New folder\ExamFirst\ExamFirst\obj\Debug\net8.0\ref\ExamFirst.dll
